@@ -1,0 +1,12 @@
+this is a simplistic display of the maurer rose equation 
+
+
+in this equation:
+Let r = sin(nθ) be a rose in the polar coordinate system, where n is a positive integer. 
+The rose has n petals if n is odd, and 2n petals if n is even.
+
+We then take 361 points on the rose:
+
+(sin(nk), k) (k = 0, d, 2d, 3d, ..., 360d),
+where d is a positive integer and the angles are in degrees, not radians.
+
